@@ -1,0 +1,187 @@
+#title {
+    background-color: #FF7171;
+    color: #fff;
+
+}
+
+#features {
+    text-align: center;
+    margin: 7% auto 7% auto;
+    line-height: 1.5;
+    background-color: white;
+
+}
+
+#testimonials {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #FF7171;
+}
+
+#press {
+    text-align: center;
+    background-color: #FF7171;
+    padding-bottom: 5%;
+}
+
+#pricing {
+    text-align: center;
+    line-height: 1.;
+}
+
+#cta {
+    text-align: center;
+    padding: 3% auto;
+    background-color: #FF7171;
+    color: white;
+}
+
+#footer {
+    margin: 5% auto;
+    text-align: center;
+    font-size: 1.3rem;
+    color: gray;
+    line-height: 1.5;
+
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.2rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: bold;
+    color:white;
+}
+
+
+h3 {
+    font-size: 1.3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+p {
+    font-size: .8rem;
+    color: gray;
+}
+.container-fluid {
+    padding: 3% 15% 3% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.navbar {
+    padding: 0 0 5% 0;
+}
+
+.nav-item {
+    padding: 10px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+/* Button */
+
+.btn {
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image {
+    width: 60%;
+    transform: rotate(20deg);
+    margin-left: 23%;
+}
+
+/* Big Icons */
+
+.bi-check-circle-fill {
+    font-size: 5rem;
+    color: #FF7171;
+}
+
+.bi-bullseye {
+    font-size: 5rem;
+    color: #FF7171;
+}
+
+.bi-heart-fill {
+    font-size: 5rem;
+    color: #FF7171;
+
+}
+
+.bi-check-circle-fill:hover {
+    color: #F5C0C0;
+}
+
+.bi-bullseye:hover {
+    color: #F5C0C0;
+}
+
+.bi-heart-fill:hover {
+    color: #F5C0C0;
+}
+
+.img-testimonial {
+    margin: 5% 2%;
+    width: 10%;
+}
+
+.brand-img {
+    width: 15%;
+}
+
+.testimonial-image {
+    margin: 5% 2%;
+    width: 10%;
+}
+
+.pricing-head {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: bold;
+    color:black;
+    padding-top: 5%;
+}
+
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.bottom-txt {
+    font-family: 'Montserrat', sans-serif;
+    margin: 5% 5%;
+    line-height: 1.5;
+}   
+
+.bi-foot-icon {
+    margin: 3% 1%;
+    color:black;
+    text-align: center;
+}
